@@ -33,7 +33,7 @@
 
 | **Versión** | **Fecha**     | **Autor**         | **Descripción de modificación**                              |
 |-------------|---------------|-------------------|--------------------------------------------------------------|
-| -         |        |  | Ramiro Alexander Guzman Chavez           |
+| TB1 | 07/09/2024 | Ramiro Alexander Guzman Chavez <br> Pedro Jesús Nanfuñay Liza |            |
 | -         |        |  |  TEXTO DE EJEMPLO          |
 | -         |        |  | TEXTO DE EJEMPLO           |
 | -         |        |  | TEXTO DE EJEMPLO           |
